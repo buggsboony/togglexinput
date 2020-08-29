@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="togglexinput.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="togglexinputu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="togglexinputU"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="26"/>
+        <CursorPos X="24" Y="47"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="/usr/lib/lazarus/lcl/include/customlistbox.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="584"/>
+        <CursorPos X="70" Y="588"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="11" HistoryIndex="10">
+      <Position1>
+        <Filename Value="togglexinputu.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="togglexinputu.pas"/>
+        <Caret Line="36" Column="28" TopLine="5"/>
+      </Position2>
+      <Position3>
+        <Filename Value="togglexinputu.pas"/>
+        <Caret Line="37" Column="28" TopLine="5"/>
+      </Position3>
+      <Position4>
+        <Filename Value="togglexinputu.pas"/>
+        <Caret Line="36" Column="28" TopLine="5"/>
+      </Position4>
+      <Position5>
+        <Filename Value="togglexinputu.pas"/>
+        <Caret Line="38" Column="28" TopLine="5"/>
+      </Position5>
+      <Position6>
+        <Filename Value="togglexinputu.pas"/>
+        <Caret Line="43" Column="57" TopLine="15"/>
+      </Position6>
+      <Position7>
+        <Filename Value="togglexinputu.pas"/>
+        <Caret Line="42" Column="52" TopLine="18"/>
+      </Position7>
+      <Position8>
+        <Filename Value="togglexinputu.pas"/>
+        <Caret Line="43" Column="59" TopLine="18"/>
+      </Position8>
+      <Position9>
+        <Filename Value="togglexinputu.pas"/>
+        <Caret Line="35" Column="11" TopLine="18"/>
+      </Position9>
+      <Position10>
+        <Filename Value="togglexinputu.pas"/>
+        <Caret Line="28" Column="54" TopLine="19"/>
+      </Position10>
+      <Position11>
+        <Filename Value="togglexinputu.pas"/>
+        <Caret Line="27" Column="54" TopLine="18"/>
+      </Position11>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
