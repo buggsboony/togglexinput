@@ -1,19 +1,20 @@
 object Form1: TForm1
-  Left = 248
-  Height = 467
-  Top = 145
+  Left = 230
+  Height = 480
+  Top = 116
   Width = 772
   Caption = 'ToggleXinput'
-  ClientHeight = 467
+  ClientHeight = 480
   ClientWidth = 772
   OnCreate = FormCreate
   LCLVersion = '2.0.10.0'
   object ListBox1: TListBox
-    Left = 16
-    Height = 376
+    Left = 19
+    Height = 328
     Top = 40
     Width = 728
     ItemHeight = 0
+    OnClick = ListBox1Click
     ScrollWidth = 726
     TabOrder = 0
     TopIndex = -1
@@ -25,5 +26,53 @@ object Form1: TForm1
     Width = 54
     Caption = 'Devices :'
     ParentColor = False
+  end
+  object btn_float: TButton
+    Left = 40
+    Height = 32
+    Top = 400
+    Width = 108
+    Caption = 'Float'
+    OnClick = btn_floatClick
+    TabOrder = 1
+  end
+  object btn_reattach: TButton
+    Left = 512
+    Height = 30
+    Top = 402
+    Width = 80
+    Caption = 'Reattach'
+    OnClick = btn_reattachClick
+    TabOrder = 2
+  end
+  object ed_master: TEdit
+    Left = 680
+    Height = 30
+    Top = 402
+    Width = 54
+    TabOrder = 3
+  end
+  object ed_id: TEdit
+    Left = 600
+    Height = 30
+    Top = 402
+    Width = 40
+    TabOrder = 4
+  end
+  object Label2: TLabel
+    Left = 656
+    Height = 17
+    Top = 410
+    Width = 13
+    Caption = 'to'
+    ParentColor = False
+  end
+  object Memo1: TMemo
+    Left = 165
+    Height = 98
+    Top = 374
+    Width = 331
+    OnChange = Memo1Change
+    TabOrder = 5
   end
 end
